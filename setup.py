@@ -11,6 +11,8 @@ setup(
     include_package_data=True,
     install_requires=[
         "tensorflow",
+        "scipy"
         "numpy",
+        "opencv-python"
     ]
 )
