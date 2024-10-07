@@ -1,1 +1,1 @@
-"SegMentor Package"
+"AI-Shoulder"
